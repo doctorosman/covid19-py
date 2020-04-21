@@ -1,4 +1,5 @@
 <h2>COVID-19 Python Sınıfı</h2>
+<a href="README.MD">English</a> | Türkçe<br>
 Güncel COVID-19 verilerini Python ile çekmek için kullanılabilecek bir sınıf.
 
 <h3>Kurulum</h3>

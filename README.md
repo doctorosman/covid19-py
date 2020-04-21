@@ -1,4 +1,5 @@
 <h2>COVID-19 Python Class</h2>
+English | <a href="README.tr.MD">Türkçe</a><br>
 You can get COVID-19 data using this class.
 
 <h3>Installation</h3>
