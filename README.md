@@ -1,13 +1,15 @@
-<h2>COVID-19 Python Class</h2>
-English | <a href="README.tr.md">Türkçe</a><br><br>
+# COVID-19 Python Class
+English | [Türkçe](README.tr.md)
+
 You can get COVID-19 data using this class.
 
-<h3>Installation</h3>
-This project uses <a href="https://pypi.org/project/beautifulsoup4/">BeautifulSoup4</a> library.
+### Installation
+This project uses [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) library.
 ```
 pip install beautifulsoup4
 ```
-<h3>Usage</h3>
+
+### Usage
 ```python
 country_url = "https://www.worldometers.info/coronavirus/country/turkey"
 ```
