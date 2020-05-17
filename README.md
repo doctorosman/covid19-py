@@ -1,18 +1,17 @@
-# COVID-19 Python Class
-English | [Türkçe](README.tr.md)
+# COVID-19 Python Modülü
+[English](README.en.md) | Türkçe
 
-You can get COVID-19 data using this class.
+Güncel COVID-19 verilerini Python ile çekmek için kullanılabilecek bir modül.
 
-### Installation
-This project uses [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) library.
-```
+### Kurulum
+Bu proje [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) sınıfını kullanmaktadır.
+~~~
 pip install beautifulsoup4
-```
-
-### Usage
-```python
+~~~
+### Kullanım
+~~~python
 country_url = "https://www.worldometers.info/coronavirus/country/turkey"
-```
-* You can change the country you will get data.<br>
-* Functions start with total return the world data.<br>
-* The other functions return the country data.
+~~~
+* Verisini almak istediğiniz ülkeyi değiştirebilirsiniz.<br>
+* total ile başlayan fonksiyonlar Dünya'daki verileri döndürür.<br>
+* Diğer fonksiyonlar seçtiğiniz ülkenin verilerini döndürür.
